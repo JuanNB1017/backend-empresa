@@ -248,4 +248,9 @@ Si quieres mejorar esta API, ¡eres bienvenido!
    ```bash
    git push origin nueva-feature
    ```
-5. Abre un **Pull Request** en este repositorio.  
+5. Abre un **Pull Request** en este repositorio.
+
+  
+## 🐝 notas
+
+En caso de quere inicializar el proyecto con los demas sistemas , primero comienza inicializando el sistema de backend, despues el sistema web y por ultimo el sistema de nodejs con el socket.io.
